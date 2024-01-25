@@ -2,6 +2,8 @@ header {
   height: 250px;
   background-color: #a41d1d;
   border-radius: 10px;
+  background-image: url(https://images.pexels.com/photos/19850346/pexels-photo-19850346/free-photo-of-an-amazing-nature.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+  background-size: cover;
 }
 main {
   min-height: 800px;
